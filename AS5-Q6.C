@@ -6,4 +6,4 @@ int main() {
     scanf ("%d",&radius);
     printf ("the area of circle is%d",pie*radius*radius);
 return 0;
-}
+}.
